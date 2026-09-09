@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and Private Notes
+.env
+DETAILS.md
+*.pdf
+
+# Virtual Environments
+env/
+venv/
+ENV/
+.venv/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw large datasets (if downloaded locally)
+data/raw/*.csv
+data/raw/*.tar.gz
+data/raw/*.zip
